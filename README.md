@@ -1,4 +1,4 @@
-CSS product cards
+**CSS product cards**
 
 doin' some practice
 
